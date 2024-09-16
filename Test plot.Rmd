@@ -1,0 +1,12 @@
+---
+title: "Test plot"
+output: github_document
+---
+
+```{r}
+plot(cars)
+```
+
+```{r}
+plot(iris)
+```
